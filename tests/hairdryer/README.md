@@ -1,4 +1,4 @@
-Suszarka na tle projektora
+Hairdryer on multimedia projector background grid
 ===
 
 
