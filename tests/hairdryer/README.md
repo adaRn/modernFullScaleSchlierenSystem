@@ -2,7 +2,7 @@ Hairdryer on multimedia projector background grid
 ===
 
 
-In GIMP in that XCF file you only need to blur horizontally and voila! If you apply curves well, you could probably see waves.
-
+If you apply curves well, you could probably see waves.
+Horizontal blur is also a good thing to think about.
 
 Projector, grid is approx. 2m x 2m size, and width of single line is 2 pixel. Can't remember resolution.
